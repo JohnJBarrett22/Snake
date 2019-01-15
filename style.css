@@ -6,3 +6,8 @@ canvas {
     display: block;
     width: 800px;
 }
+body {
+    background-image: url("https://media.giphy.com/media/tj5v01sQumzCg/giphy.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
